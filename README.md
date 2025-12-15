@@ -1,6 +1,4 @@
-# Smoking-Dashborad
-
-🚬 Smoking Impact on Human Health – Power BI Analysis
+# 🚬 Smoking Impact on Human Health – Power BI Analysis
 📌 Project Overview
 
 This project analyzes patient health data to understand the impact of smoking on critical organs and overall human health. Using Power BI, the analysis uncovers demographic trends, high-risk indicators, and organ damage patterns associated with smoking behavior.
